@@ -12,7 +12,7 @@
                 </a>
                 <a class="flex items-center gap-3">
                     <img src="{{ asset('/assets/icons/gmail.svg') }}" alt="" class="w-6">
-                    <p>tokobaju@gmail.com</p>
+                    <p>distroshop@gmail.com</p>
                 </a>
             </div>
         </div>
@@ -39,5 +39,5 @@
             </div>
         </div>
     </div>
-    <h3 class="font-semibold text-lg text-center">&copy; 2025 SmartStyle. All Rights Reserved</h3>
+    <h3 class="font-semibold text-lg text-center">&copy; 2025 DistroShop. All Rights Reserved</h3>
 </footer>
