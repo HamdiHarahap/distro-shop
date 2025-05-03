@@ -55,11 +55,16 @@ DistroShop adalah aplikasi web e-commerce yang dirancang untuk menampilkan dan m
 ## Tampilan Website
 
 1. **Halaman Utama**
+    ![127 0 0 1_8000_ (3)](https://github.com/user-attachments/assets/a49d028b-ac0a-46c4-8877-23c821d9591a)
 
 2. **Halaman Produk**
+    ![127 0 0 1_8000_products](https://github.com/user-attachments/assets/812487bb-3cea-4da6-bb38-bd1483887ef5)
 
 3. **Detail Produk**
+    ![127 0 0 1_8000_product_1 (1)](https://github.com/user-attachments/assets/f798cd95-d650-41b0-a6d3-6fa6243d2106)
 
 4. **Keranjang**
+    ![127 0 0 1_8000_keranjang (1)](https://github.com/user-attachments/assets/70b71aaf-80e6-48ed-ab52-95bc7255f223)
 
 5. **Checkout**
+    ![127 0 0 1_8000_keranjang](https://github.com/user-attachments/assets/776720d2-4ab5-4f3a-94b8-621f03520203)
